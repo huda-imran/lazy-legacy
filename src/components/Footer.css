@@ -1,0 +1,22 @@
+footer {
+    background-color: #000000;
+    padding: 20px 0;
+    text-align: center;
+    border-top: 2px solid #56A44E;
+    width: 100%;
+    color: #FFFFFF;
+    font-size: 18px;
+    margin-top: auto;
+    /* Make sure footer is at the bottom */
+}
+
+.footer-link {
+    color: #FFFFFF;
+    text-decoration: none;
+    font-size: 18px;
+    transition: color 0.3s ease;
+}
+
+.footer-link:hover {
+    color: #56A44E;
+}

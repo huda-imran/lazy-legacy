@@ -1,0 +1,41 @@
+.instructions-section {
+    padding: 20px 40px;
+    background-color: #FFF6F6;
+    border-radius: 15px;
+    margin: 20px auto;
+    max-width: 1200px;
+    text-align: center;
+    box-shadow: 0 5px 15px rgba(0, 0, 0, 0.1);
+    border: 2px solid #0E7A27;
+}
+
+.instructions-section h2 {
+    font-size: 28px;
+    color: #0E7A27;
+    margin-bottom: 15px;
+}
+
+.instructions-section p,
+.instructions-section ol {
+    font-size: 18px;
+    color: #000000;
+}
+
+.instructions-section ol {
+    text-align: left;
+    padding: 0 20px;
+}
+
+.instructions-section ol li {
+    margin-bottom: 10px;
+}
+
+.help-link {
+    color: #0E7A27;
+    text-decoration: none;
+    font-weight: bold;
+}
+
+.help-link:hover {
+    color: #56A44E;
+}
